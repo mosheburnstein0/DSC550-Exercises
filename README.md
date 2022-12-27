@@ -1,1 +1,2 @@
-# DSC550-Exercises
+# DSC550-Exercises Data Mining
+# Machine Learning in Python
